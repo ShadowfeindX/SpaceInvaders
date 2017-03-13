@@ -1,9 +1,3 @@
-#-------------------------------------------------
-#
-# Project created by QtCreator 2017-03-10T19:26:35
-#
-#-------------------------------------------------
-
 QT       += core gui widgets multimedia
 
 TARGET = learning-graphics
